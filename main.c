@@ -27,6 +27,12 @@ int main() {
 
     // read_from_files_then_sort_and_write();
 
-    score_read_write();
+    // score_read_write();
+
+    // read_score_sort_and_write();
+
+    // write_record_to_sorted_file();
+
+    employee_table_read_write();
     return 0;
 }
